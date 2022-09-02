@@ -1,0 +1,15 @@
+h2 {
+    color: black;
+    font-family: Arial;
+    font-size: 150%;
+  }
+  h3 {
+    color: grey;
+    font-family:Courier;
+    font-size: 100%;
+  }
+      
+      img {
+        border: 5px solid Black;
+        margin: 5px;
+      }
